@@ -1,4 +1,4 @@
-# Welcome to the Assign02 ReadMe!
+# Welcome to the Hardware store ReadMe!
 
 In this Markdown file in I will be going over the Small hardware store project. A project, which needs a graphical user interface to keep track of items in the inventory of the store, and to keep track of the employees and customers.
 # Authors:
